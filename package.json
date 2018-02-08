@@ -4,9 +4,7 @@
   "description": "Javascript UMD example.",
   "main": "main.js",
   "dependencies": {},
-  "devDependencies": {
-    "webpack": "^3.10.0"
-  },
+  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
