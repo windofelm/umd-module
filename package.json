@@ -1,0 +1,21 @@
+{
+  "name": "@windofelm/umd-module",
+  "version": "1.0.0",
+  "description": "Javascript UMD example.",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/windofelm/umd-module.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/windofelm/umd-module/issues"
+  },
+  "homepage": "https://github.com/windofelm/umd-module#readme"
+}

@@ -11,3 +11,9 @@ Running modules with browser (client) run index.html
 ```
 index.html
 ```
+
+## Browsify Usage Example
+for require.
+```
+browserify exportModule.js -o bundle.js
+```
