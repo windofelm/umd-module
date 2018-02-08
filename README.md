@@ -13,7 +13,11 @@ index.html
 ```
 
 ## Browsify Usage Example
-for require.
+First install browsify globally.
+```
+npm install -g browserify
+```
+Run for bundle.
 ```
 browserify exportModule.js -o bundle.js
 ```
